@@ -1,0 +1,2 @@
+This is the files for the drone before the new version of it. So this is the files for the red drone, not the yellow one.
+Jens christian andersen has the files for the yellow one.
