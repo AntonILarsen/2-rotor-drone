@@ -1,0 +1,6 @@
+To run the simulation, you have to open the three files in this folder.
+Thereafter you have to make a change all the places where there is written cd(). Change the directory to the location of this folder.
+You only have to run Simulation_2_rotor_drone. this file calls Drone_2M_Code.
+
+
+
