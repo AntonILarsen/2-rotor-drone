@@ -1,2 +1,6 @@
 This is the files for the drone before the new version of it. So this is the files for the red drone, not the yellow one.
 Jens christian andersen has the files for the yellow one.
+
+For uploading new firmaware to the drone, and extra how to, see the repport:
+2-rotor_drone_addition_of_sensors_for_position_and_height_stabilization
+this report is in the main folder in this github.
